@@ -58,6 +58,8 @@ SELECT matchid, mdate, COUNT(matchid)
  WHERE (team1='GER' OR team2='GER') AND teamid='GER'
  GROUP BY matchid
 
+ 
+
 
 
 
